@@ -1,4 +1,4 @@
-# 🛠️ My Projects:
+# Projects:
 👉 [Chat Bot](https://sanakdey719.github.io/sanakdey719/ai/)<br>
 👉 [Compiler App](https://sanakdey719.github.io/sanakdey719/compilerapp/)
 # Game Hub:
