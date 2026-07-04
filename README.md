@@ -7,4 +7,4 @@
 👉 [Whale](https://sanakdey719.github.io/Projects/whale/)<br>
 👉 [Spyder Clock](https://sanakdey719.github.io/sanakdey719/animation/spyderclock/)<br>
 👉 [3D Liquid Toggle](https://sanakdey719.github.io/Projects/3Dliquidtoggle/)<br>
-👉 [Light Vortex](https://sanakdey719.github.io/Projects/lightvortex/)
+👉 [Black Whole](https://sanakdey719.github.io/Projects/blackwhole/)
