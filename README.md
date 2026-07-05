@@ -174,7 +174,7 @@
 👉 [Compiler App](https://sanakdey719.github.io/sanakdey719/compilerapp/)<br>
 👉 [Game Hub](https://sanakdey719.github.io/sanakdey719/gamehub/)
 # Animation's:
-👉 [Whale](https://sanakdey719.github.io/Codes/Animation/whale/)<br>
+👉 [Shark](https://sanakdey719.github.io/Codes/Animation/whale/)<br>
 👉 [Reptile](https://sanakdey719.github.io/Codes/Animation/reptile/)<br><br>
 👉 [Spyder Clock](https://sanakdey719.github.io/sanakdey719/animation/spyderclock/)<br><br>
 👉 [3D Liquid Toggle](https://sanakdey719.github.io/Codes/3Dliquidtoggle/)
