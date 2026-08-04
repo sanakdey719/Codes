@@ -1,6 +1,6 @@
 <!-- Typing animation introduction -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanakdey719&label=Profile%20views&color=0e75b6&style=flat" alt="sanakdey719" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanakdey719&label=Profile%20views&color=0e75b6&style=flat" alt="Sanakdey719" /> </p>
 
 <div align="center">
 
