@@ -288,4 +288,4 @@ function confetti() {
       { duration: 1100 + Math.random() * 700, easing: 'cubic-bezier(.15,.6,.35,1)' }
     ).onfinish = function () { bit.remove(); };
   }
-}
+  }                                                                      
